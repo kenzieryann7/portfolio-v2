@@ -1,4 +1,13 @@
+![logo](media/codeSVG.svg)
 
-* [Home](/)
-* [Students](/students/)
-* [Instructors](/instructors/)
+**Makenzie Noggle**
+<br>Student Web Developer
+
+---
+
+* [Home](/home)
+* [Portfolio](/portfolio)
+
+---
+
+[Github](https://github.com/kenzieryann7)
