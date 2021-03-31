@@ -1,13 +1,11 @@
 <!-- _coverpage.md -->
 
-![logo](media/logo_white.svg)
+![logo](media/codeSVG.svg)
 
-# Platform Documentation <small>1.0</small>
+# Makenzie Noggle
 
-> Custom Web Team Platform Documentation Boilerplate
+> Student Web Developer
 
-- Documentation for students, instructors, and developers
+- C/C++, JavaScript, jQuery, and Vue
 
-[Students](/students/)
-[Instructors](/instructors/)
-[Developers](/developers/)
+[Welcome](/home)
