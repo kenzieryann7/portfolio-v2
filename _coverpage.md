@@ -6,6 +6,6 @@
 
 > Student Web Developer
 
-- JavaScript, jQuery, and Vue
+- C/C++, JavaScript, jQuery, and Vue
 
 [Welcome](/home)
